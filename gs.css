@@ -44,3 +44,13 @@ h6.name{
     font-size: small;
     font-display: aqua;
 }
+table.table {
+    border: 2 cm;
+    color: blueviolet;
+    text-align: center;
+    padding: 40px;
+    margin: 15px;
+}
+tr:nth-child(odd)     {
+    background-color: violet;
+}
