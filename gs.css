@@ -1,5 +1,46 @@
-speech {
+.speech {
     font-family: 'Courier New', Courier, monospace;
     font-size: 15px;
     color: black;
+}
+.direction {
+    text-align: left;
+    font-size: medium;
+    font-style: normal;
+    font-display: black;
+    background-color: lightgrey;
+}
+p.direction:hover,p.directions:active{color:aqua;
+    background-color: pink; 
+}
+p.song {
+text-align: left;
+font-style: normal;
+font-size: medium;
+font-display: black;
+}
+h6.name{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-display: black;
+}
+.BAR {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-display: red;
+}
+.lur {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-display: yellow;
+}
+.ALL {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-display: blue;
+}
+.chorus {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+    font-display: aqua;
 }
