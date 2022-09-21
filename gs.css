@@ -54,3 +54,9 @@ table.table {
 tr:nth-child(odd)     {
     background-color: violet;
 }
+h6.name:hover,h6.name:active{
+    text-shadow: 2px 2px 2px red;
+    border: 2px;
+    border-color: maroon;
+    border-style: dashed;
+}
